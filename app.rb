@@ -12,7 +12,3 @@ end
 get '/contact' do
   erb :contact
 end
-
-get '/coffee' do
-  erb :coffee
-
