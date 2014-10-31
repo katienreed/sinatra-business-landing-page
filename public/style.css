@@ -44,7 +44,6 @@ h1 {
 	left: 100px;
 	border-right: 2px black solid;
 }
-
 ul{
 	margin: 0px;
 }
@@ -86,7 +85,7 @@ a:hover {
 }
 #message{
 	width: 300px;
-	height: 150px;
+	height: 140px;
 }
 #name{
 	width: 300px;
