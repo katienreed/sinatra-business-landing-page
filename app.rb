@@ -12,3 +12,7 @@ end
 get '/contact' do
   erb :contact
 end
+
+post '/post' do
+	erb :post
+end
